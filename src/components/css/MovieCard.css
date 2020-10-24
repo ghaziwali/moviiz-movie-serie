@@ -1,0 +1,12 @@
+.card{
+	max-width:25vw;
+	margin:20px;
+}
+
+.MuiCardMedia-root {
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50vh;
+}

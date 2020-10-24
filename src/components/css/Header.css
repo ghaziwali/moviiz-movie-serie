@@ -1,0 +1,14 @@
+.header{
+    margin:0;
+    display: flex;
+    align-items: center;
+    background-color:  #212121;
+    justify-content: center;
+  }
+
+  .website_title{
+      color: #fff;
+      text-align: center;
+  }
+
+  
